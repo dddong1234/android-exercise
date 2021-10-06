@@ -1,0 +1,4 @@
+rootProject.name = "SampleReceiver"
+include ':app'
+include ':sample'
+include ':permission'
